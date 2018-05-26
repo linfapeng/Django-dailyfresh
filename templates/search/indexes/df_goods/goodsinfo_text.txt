@@ -1,0 +1,3 @@
+{{ object.gtitle }}
+{{ object.gbrief}}
+{{ object.gcontent}}
